@@ -6,4 +6,4 @@
 
 Demo : https://yuhhyang.github.io/Todolist/index
 
-![](https://i.imgur.com/ztyuPBs.png)
+![](https://i.imgur.com/LonquBF.png)
